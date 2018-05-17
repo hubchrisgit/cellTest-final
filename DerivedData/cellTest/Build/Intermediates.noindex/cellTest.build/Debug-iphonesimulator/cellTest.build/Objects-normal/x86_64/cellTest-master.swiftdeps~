@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "9a2e1fa5b4719f9667152544bb653430"
+build_time: [1524030868, 580306000]
+inputs:
+  "/Users/dong/Desktop/cellTest final/cellTest/MyCell.swift": [1523948149, 0]
+  "/Users/dong/Desktop/cellTest final/cellTest/ViewController.swift": [1523951898, 0]
+  "/Users/dong/Desktop/cellTest final/cellTest/AppDelegate.swift": [1523595583, 0]
+  "/Users/dong/Desktop/cellTest final/cellTest/FavoriteCell.swift": [1523629061, 0]
+  "/Users/dong/Desktop/cellTest final/cellTest/MyTableViewController.swift": [1524030868, 0]
+  "/Users/dong/Desktop/cellTest final/cellTest/FavoirteTableViewController.swift": [1524030821, 0]
